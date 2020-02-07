@@ -2,6 +2,8 @@
 - An app to demonstrate use of logs.
 - Made with Google Code Labs!
 - Uses Timber library for logging.
+- Implements LifecycleObserver.
+- Implements onSaveInstanceState.
 
 ## Logging with Timber.
 Timber is a logging library with several advantages over the Android logging API. In particular, the Timber library:
